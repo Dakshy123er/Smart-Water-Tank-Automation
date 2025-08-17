@@ -18,7 +18,7 @@ This project prevents water overflow, optimizes filling, and provides **real-tim
 ## 🖼️ System Overview  
 
 ### Prototype  
-![Prototype](images/Final-Demonstration.jpg)  
+![Prototype](images/Final\ Demonstration.jpg)  
 
 ### Circuit Diagram  
 ![Circuit Diagram](images/Diagram.png)  
@@ -26,7 +26,7 @@ This project prevents water overflow, optimizes filling, and provides **real-tim
 ---
 
 ## 📐 CAD Model  
-<img src="cad-model/image_1.png" width="400"/>  
+<img src="cad\ model/image_1.png" width="400"/>  
 
 
 
